@@ -6,5 +6,7 @@ Greet('Foobar')
 
 # Add feature 1
 
+
+# Adding a bug fix
 # adding another change
 
